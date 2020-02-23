@@ -1,0 +1,16 @@
+{
+  "name": "kubernetes-client-from-cloud-function",
+  "version": "1.0.0",
+  "description": "An example application demonstrating the use of kubernetes-client via Cloud Function",
+  "main": "app.js",
+  "author": "Ong Khai Wei",
+  "license": "Apache",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "glob": "^7.1.6",
+    "kubernetes-client": "^8.3.6",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5",
+    "unzipper": "^0.10.8"
+  }
+}
